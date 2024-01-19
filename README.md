@@ -13,12 +13,6 @@ Duplicate entries are examined and removed to enhance the dataset's clarity and 
 Exploratory Data Analysis (EDA)
 EDA is conducted to unveil patterns and trends. It includes displaying overall statistics, identifying lengthy movies, determining the highest average voting and revenue per year, and assessing the rating's impact on revenue.
 
-image
-
-image
-
-image
-
 Top Movies Analysis
 The identification of the most popular movies based on revenue and highest ratings is performed. Additionally, movies are classified into categories like "Excellent," "Good," or "Average" based on their ratings.
 
