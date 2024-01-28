@@ -10,6 +10,8 @@ The initial step involves checking the dataset's shape, revealing 1000 rows and 
 
 Handling Duplicates
 Duplicate entries are examined and removed to enhance the dataset's clarity and avoid redundancy.
+![image](https://github.com/RAJ322622/IMDBMOVIES/assets/146355426/8f230448-58fa-4cf2-beea-1fa7aa35ac79)
+
 
 Exploratory Data Analysis (EDA)
 EDA is conducted to unveil patterns and trends. It includes displaying overall statistics, identifying lengthy movies, determining the highest average voting and revenue per year, and assessing the rating's impact on revenue.
