@@ -1,4 +1,5 @@
-IMDB Movie Dataset Data Analysis
+**IMDB Movie Dataset Data Analysis**
+_____________________________________________________________________________________________________________________________________________________________________________________
 In this Python data analysis project, the IMDB Movie Dataset is explored to derive insights into various movie aspects. Essential Python libraries such as Pandas, Seaborn, and Matplotlib are employed for efficient data manipulation and visualization.
 
 Dataset Overview
@@ -38,3 +39,6 @@ Matplotlib Functions:
 plt.figure(figsize=(width, height)): Sets the figure size for plots.
 plt.title(): Adds a title to the plot.
 plt.show(): Displays the plot.
+
+**Result's**
+![image](https://github.com/RAJ322622/IMDBMOVIES/assets/146355426/5a910dea-47a8-4945-9e16-4ea5bd14c3bd)
